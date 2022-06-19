@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: lato;
+}
+
+button {
+    all: unset;
+}
+
+.container {
+    padding: 2rem;
+    margin-top: 4rem;
+    width: 77%;
+}
+
+.post-container:hover {
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}

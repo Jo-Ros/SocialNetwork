@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    height: 4rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid rgb(59, 59, 59);
+    background-color: white;
+    z-index: 666;
+    width: 77%;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: lighter;
+    font-size: 1.8rem;
+}
